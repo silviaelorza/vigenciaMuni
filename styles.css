@@ -319,10 +319,6 @@ body {
         padding: 0 20px;
       }
 
-      .presentacion{
-        margin-top: 20px;
-      }
-
       .datos-edicion{
         margin-top: 20px;
       }
@@ -363,7 +359,7 @@ body {
       .columna-uno, .columna-dos{
         display: block;
         width: 100%;
-        padding: 10px;
+        padding: 10px 0;
       }
   
       .columna-dos{
